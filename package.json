@@ -1,0 +1,19 @@
+{
+  "name": "dbdiagram-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/mystyle2006/dbdiagram-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mystyle2006/dbdiagram-parser/issues"
+  },
+  "homepage": "https://github.com/mystyle2006/dbdiagram-parser#readme"
+}
